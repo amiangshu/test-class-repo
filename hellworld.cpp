@@ -1,5 +1,5 @@
 // Your First C++ Program
-// Author: Amiangshu Bosu <abosu@wayne.edu>
+// Author: Amiangshu S. Bosu <abosu@wayne.edu>
 
 #include <iostream>
 
