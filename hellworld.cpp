@@ -1,4 +1,5 @@
 // Your First C++ Program
+// Author: Amiangshu BosuS
 
 #include <iostream>
 
